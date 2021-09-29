@@ -1,0 +1,3 @@
+student name: Lucas de Jong
+student number: 689200
+student class: IT1 C
